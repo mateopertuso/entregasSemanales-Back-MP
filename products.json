@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "title": "prod1 actualizado",
+    "description": "este es el prod 1 actualizado",
+    "price": 33,
+    "thumbnail": "sin imagen",
+    "code": "code1",
+    "stock": 8
+  }
+]
